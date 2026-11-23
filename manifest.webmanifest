@@ -1,1 +1,1 @@
-{"name": "Casa", "short_name": "Casa", "start_url": "./", "display": "standalone", "background_color": "#f6f5f2", "theme_color": "#2f5d8a", "icons": [{"src": "icono.png", "sizes": "180x180", "type": "image/png"}]}
+{"name": "Our Home", "short_name": "Our Home", "start_url": "./", "display": "standalone", "background_color": "#f6f5f2", "theme_color": "#2f5d8a", "icons": [{"src": "icono.png", "sizes": "180x180", "type": "image/png"}]}
